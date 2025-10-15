@@ -4,15 +4,17 @@ nav:
  - Overview: index.md
  - Components/Projects:
    - itra:
-     - itra-libs: components/itra/tra-libs/Overview.md
+     - itra-libs: components/itra/itra-libs/Overview.md
      - itra-behavior: components/itra/tra-behavior/Overview.md
 
    - tra:
      - tra-orch: components/tra-orch/Overview.md
-     - tra-inf: components/tra-orch/Overview.md
-     - tra-math: components/tra-orch/Overview.md
-     - tra-planning: components/tra-orch/Overview.md
-     - tra-tools: components/tra-orch/Overview.md
+     - tra-inf: components/tra-inf/Overview.md
+     - tra-math: components/tra-math/Overview.md
+     - tra-planning: components/tra-planning/Overview.md
+     - tra-parser: components/tra-parser/Overview.md
+     - proposal-sampler: components/proposal-sampler/Overview.md
+     - tra-tools: components/tra-tools/Overview.md
    
 theme: readthedocs
 
