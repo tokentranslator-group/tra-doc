@@ -5,7 +5,7 @@ nav:
  - Components/Projects:
    - itra:
      - itra-libs: components/itra/itra-libs/Overview.md
-     - itra-behavior: components/itra/tra-behavior/Overview.md
+     - itra-behavior: components/itra/itra-behavior/Overview.md
 
    - tra:
      - tra-orch: components/tra-orch/Overview.md
